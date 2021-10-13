@@ -313,8 +313,9 @@ hr {
 }
 
 .owner {background-color: rgba(244, 65, 65, .5);}
-.manager {background-color: rgba(66, 134, 244, .5);}
+.dev {background-color: rgba(66, 134, 244, .5);}
 .admin {background-color: rgba(59, 211, 42, .5);}
+.modo {background-color: rgba(158, 155, 55, .5);}
 
 /* Announcement */
 
